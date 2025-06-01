@@ -1,0 +1,11 @@
+So i did the  11.3 - 11.4 exercises
+one TODO though, dig deeper into the syntax of jobs
+also the date and ls commands
+https://man7.org/linux/man-pages/man1/ls.1.html
+https://man7.org/linux/man-pages/man1/date.1.html
+
+figure out how the documentation works
+
+the way i see it now the synopsis shows it theoretically how its used
+and under it there is a real life example with all the further options underneath
+which we should all be able to just put after the date
